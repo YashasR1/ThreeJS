@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href="tailwind.css" rel="stylesheet"/>
+  <style>
+    body {
+      margin: 0;
+      /* This is needed for the Three.js canvas */
+      overflow: hidden; 
+    }
+  </style>
+</head>
+<body>
+  <!-- <div id='app'>
+    <div class='absolute text-white text-center' style="top: 50%; left: 50%; transform: translate(-50%, -50%);">
+      
+      <h1 class='text-4xl font-bold uppercase tracking-widest'>YASHAS R</h1>
+      
+      <pre class='text-6xl font-bold tracking-widest mt-4'>
+        One with an everlasting desire 
+        for the unknown & untold
+      </pre>
+      
+      <button class='text-xs uppercase tracking-widest mt-8 border border-white py-2 px-4 hover:bg-white hover:text-black transition-colors duration-300'>
+        View Work
+      </button> -->
+      
+    <!-- </div>
+  </div> -->
+  <div class="flex h-screen bg-black">
+    <div class="w-1/2 flex flex-col justify-center px-8">
+      <h1 class="text-white text-6xl">CHALLENGE THE STANDARD OF SPACE EXPLORATION</h1>
+    </div>
+    <div class="w-1/2" id="canvasContainer">
+      <canvas></canvas>
+    </div>
+  </div>
+
+  <script src="intermediate.js" type="module"></script>
+</body>
+</html>
