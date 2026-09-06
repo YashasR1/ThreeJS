@@ -1,0 +1,12 @@
+Trade_#_In_Week,Week_#,Setup_Type,Timeframe,ATR_15m,SL_Distance_$,Calculated_Lot,Trade_Outcome,PnL_$,Account_Balance,Cumulative_Profit,Phase_1_Progress_%
+0,0,Baseline,-,-,-,-,-,0.00,5000.00,0.00,0.00%
+1,W1,Medium Box,15m,3.00,4.50,0.06,Pending,0.00,5000.00,0.00,0.00%
+2,W1,Narrow Box,15m,2.50,3.75,0.07,Pending,0.00,5000.00,0.00,0.00%
+3,W1,Big Box,1h,4.50,6.75,0.04,Pending,0.00,5000.00,0.00,0.00%
+4,W1,Medium Box,15m,3.20,4.80,0.05,Pending,0.00,5000.00,0.00,0.00%
+5,W2,Medium Box,15m,2.80,4.20,0.06,Pending,0.00,5000.00,0.00,0.00%
+6,W2,Big Box,1h,4.00,6.00,0.04,Pending,0.00,5000.00,0.00,0.00%
+7,W2,Narrow Box,15m,2.50,3.75,0.07,Pending,0.00,5000.00,0.00,0.00%
+8,W2,Medium Box,15m,3.50,5.25,0.05,Pending,0.00,5000.00,0.00,0.00%
+9,W3,Big Box,1h,4.20,6.30,0.04,Pending,0.00,5000.00,0.00,0.00%
+10,W3,Medium Box,15m,3.00,4.50,0.06,Pending,0.00,5000.00,0.00,0.00%
